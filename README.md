@@ -1,6 +1,6 @@
 # Basic Sample Hardhat Project
 
-This project demonstrates a basic implementation of Task Manager Dapp where the tasks can be created, assigned to employees in the list already declared. Further the operations like updateTitle, UpdateEmployeeName can be perfomred. The tasks can be transferred from one state to another. This project uses the ether.js library.
+This project demonstrates a basic implementation of Task Manager Dapp where the tasks can be created, assigned to employees in the list already declared. Further the operations like updateTitle, UpdateEmployeeName can be perfomred. The tasks can be transferred from one state to another. This project uses the ether.js library. Please see the Web3 practice updated pdf file for connecting to metamask using ether.js
 
 Try running some of the following tasks:
 
